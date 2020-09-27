@@ -1,0 +1,4 @@
+com/leszko/calculator/CalculatorTest.java
+ com.leszko.calculator.CalculatorTest
+com/leszko/calculator/CalculatorApplicationTests.java
+ com.leszko.calculator.CalculatorApplicationTests

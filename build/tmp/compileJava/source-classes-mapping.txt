@@ -1,2 +1,6 @@
 com/leszko/calculator/CalculatorApplication.java
  com.leszko.calculator.CalculatorApplication
+com/leszko/calculator/Calculator.java
+ com.leszko.calculator.Calculator
+com/leszko/calculator/CalculatorController.java
+ com.leszko.calculator.CalculatorController
